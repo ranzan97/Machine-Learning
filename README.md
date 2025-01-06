@@ -1,1 +1,1 @@
-# Machine-Learning
+# Beginner friendly projects for learning Machine Learning
