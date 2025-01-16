@@ -19,7 +19,7 @@ This repository contains a collection of machine learning projects, ranging from
    - Description: Text classification model using TensorFlow and SimpleRNN to identify spam messages.
      
 4. ****Wine Classification using KNN with Hyperparameter Tuning**
-   - File: 'KNN_Wine_Class.ipynb'
+   - File: `KNN_Wine_Class.ipynb`
    - Description: A machine learning model to classify wines using K-Nearest Neighbors algorithm with hyperparameter tuning.
 
 
