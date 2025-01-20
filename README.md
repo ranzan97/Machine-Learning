@@ -34,6 +34,6 @@ This repository contains a collection of machine learning projects, ranging from
    - Description: Linear regression model for predicting salaries.
 
 ### Unsupervised Learning
-**Transaction Anomaly Detection**
--File: `Transaction_anomaly_detection.ipynb`
--Description: Implements an anomaly detection model using Isolation Forest to identify unusual transactions. 
+1. **Transaction Anomaly Detection**
+   -File: `Transaction_anomaly_detection.ipynb`
+   -Description: Implements an anomaly detection model using Isolation Forest to identify unusual transactions. 
