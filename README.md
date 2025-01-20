@@ -32,3 +32,8 @@ This repository contains a collection of machine learning projects, ranging from
 2. **Salary Prediction**
    - File: `Regression_Salary_Predict.ipynb`
    - Description: Linear regression model for predicting salaries.
+
+### Unsupervised Learning
+**Transaction Anomaly Detection**
+-File: `Transaction_anomaly_detection.ipynb`
+-Description: Implements an anomaly detection model using Isolation Forest to identify unusual transactions. 
