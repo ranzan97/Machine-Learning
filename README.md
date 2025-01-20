@@ -35,5 +35,5 @@ This repository contains a collection of machine learning projects, ranging from
 
 ### Unsupervised Learning
 1. **Transaction Anomaly Detection**
-   -File: `Transaction_anomaly_detection.ipynb`
-   -Description: Implements an anomaly detection model using Isolation Forest to identify unusual transactions. 
+   - File: `Transaction_anomaly_detection.ipynb`
+   - Description: Implements an anomaly detection model using Isolation Forest to identify unusual transactions. 
